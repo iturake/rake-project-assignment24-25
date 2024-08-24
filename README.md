@@ -20,7 +20,7 @@
   - cmd_vel
 
 ## Ödev Yapılırken Dikkat Edilmesi Gerekenler
-- Örnek videoda da göreceğiniz üzere uygulama bir launch file a verilen, turtle'ın yakalayacağı turtle'ların spawn edileceği noktaların x ve y koordinatlarını belirten "coordinates" argumanı ile çalışıyor. Ödevinizde bulunan sadece bu dosyanın çalıştırılması ile başlamalıdır. Uygulamayı çalıştırmak için birden çok dosya kullanmayınız.
+- Örnek videoda da göreceğiniz üzere uygulama bir launch file a verilen, turtle'ın yakalayacağı turtle'ların spawn edileceği noktaların x ve y koordinatlarını belirten "coordinates" argumanı ile çalışıyor. Ödeviniz, sadece bu dosyanın çalıştırılması ile başlamalıdır. Uygulamayı çalıştırmak için birden çok dosya kullanmayınız.
 - Uygulama, verilen koordinatlar için kontroller yapmalı ve bu kontroller sonucunda gerekiyorsa bir hata mesajı verip uygulamayı çalışmadan sonlandırmalıdır. Bu kontrollere örnek olarak:
     1. Verilen koordinatlar bir dizi üzerinden x ve y koordinatlarını belirttiğinden eleman sayısı çift olmalıdır.
     2. Uygulama, turtle'ın spawnlandığı koordinat düzleminin sınırları dışında verilen koordinatları kabul etmemelidir. Bu sınırları bulmak size bırakılmıştır.
