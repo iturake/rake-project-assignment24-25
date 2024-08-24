@@ -2,9 +2,8 @@
   <img src="https://rake.itu.edu.tr/static/img/logo_footer.png" width="350" title="İTÜ Robotik Arama Kurtarma Ekibi">
 </p>
 
-# rake-project-assignment24-25
 
-## ROS Turtlesim Proje Ödevi
+# ROS Turtlesim Proje Ödevi
 **ödev konusu**: Bu ödev aşamasında sizden ROS temel elemanlarını kullanarak basit bir turtle-sim uygulaması yapmanız istenmektedir. turtle-sim i kullanarak periyodik olarak 2 boyutlu düzlem üzerinde istenilen noktalarda çıkan diğer turtle'ları yakalayan bir uygulama yapacaksınız.
 
 ## Ödevi Yaparken kullanacağınız ROS araçları
