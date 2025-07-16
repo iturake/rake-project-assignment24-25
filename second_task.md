@@ -3,19 +3,19 @@
 </p>
 
 
-# ROS Turtlesim Proje Ödevi
+# ROS2 Turtlesim Proje Ödevi
 **ödev konusu**: Bu ödev aşamasında sizden ROS temel elemanlarını kullanarak basit bir turtle-sim uygulaması yapmanız istenmektedir. turtle-sim i kullanarak periyodik olarak 2 boyutlu düzlem üzerinde istenilen noktalarda çıkan diğer turtle'ları yakalayan bir uygulama yapacaksınız.
 
 ## Ödevi Yaparken kullanacağınız ROS araçları
-- ROS Service
-- ROS Publisher / Subscriber
-- ROS Parameter Server
-- ROS launch files
-- ROS launch file arguments
-- ROS turtlesim package
+- ROS2 Service
+- ROS2 Publisher / Subscriber
+- ROS2 Parameter Server
+- ROS2 launch files
+- ROS2 launch file arguments
+- ROS2 turtlesim package
     - turtlesim-node
     - turtlesim-services
-- ROS topics
+- ROS2 topics
   - pose
   - cmd_vel
 
