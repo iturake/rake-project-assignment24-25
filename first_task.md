@@ -4,26 +4,26 @@
 
 # İTÜ RAKE - Yazılım Ekibi Araştırma ve Uygulama Görevleri
 
-## Robot Operating System (ROS) Araştırması
+## Robot Operating System (ROS2) Araştırması
 
-- ROS'u Tanıma Araştırması
-- ROS Elemanlarını Öğrenme Araştırması
+- ROS2 Tanıma Araştırması
+- ROS2 Elemanlarını Öğrenme Araştırması
 
 ### ROS'u Tanıma Araştırması
-- ROS nedir?
+- ROS2 nedir?
 - Robotikte hangi amaçla kullanılır?
-- Robotikte ROS kullanmanın avantajları/dezavantajları nelerdir?
+- Robotikte ROS2 kullanmanın avantajları/dezavantajları nelerdir?
 - Bir robotik projesinde ROS ve açık kaynak ROS paketi kullanımı hangi seviyede olmalıdır?
-- ROS kullanımı nasıl azaltılabilir?
+- ROS2 kullanımı nasıl azaltılabilir?
 
 Sorularına karşılık, kendi cümlelerinizle hazırladığınız en az 1 sayfalık cevabı olan bir araştırma olmalıdır.
 
-### ROS Elemanlarını Öğrenme Araştırması
-- ROS workspace, nodes, topics, services, master-slave structure, parameter server, action lib
-- ROS .launch files, .yaml files, CMakelist.txt
-- ROS MoveIt Package
+### ROS2 Elemanlarını Öğrenme Araştırması
+- ROS2 workspace, nodes, topics, services, master-slave structure, parameter server, action lib
+- ROS2 .launch files, .yaml files, CMakelist.txt
+- ROS2 MoveIt Package
 - Gazebo, RViz
-- ROS tools->rqt_plot, rqt_graph, rosbag kavramları
+- ROS2 tools->rqt_plot, rqt_graph, rosbag kavramları
  
 Yukarıda yer alan kavramları, dosyaları, paketleri ve çeşitli araçları maddeler halinde kendi yorumunuzla
 açıklamanız gerekmektedir. Kavramların tanımlarını kaynaklardan okuyup kendi cümlelerinizle yazmanız, daha sonra bu kavramın bir robotu çalıştırırken bize nasıl yardımcı olacağını yorumlamanız gerekmektedir. Bu yorumlamayı [Husky İnsansız Kara Aracı](https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/)'nın dosyalarına bakarak da yapabilirsiniz.
