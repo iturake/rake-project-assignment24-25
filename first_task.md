@@ -9,7 +9,7 @@
 - ROS2 Tanıma Araştırması
 - ROS2 Elemanlarını Öğrenme Araştırması
 
-### ROS'u Tanıma Araştırması
+### ROS2 Tanıma Araştırması
 - ROS2 nedir?
 - Robotikte hangi amaçla kullanılır?
 - Robotikte ROS2 kullanmanın avantajları/dezavantajları nelerdir?
