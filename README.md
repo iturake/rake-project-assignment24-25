@@ -1,1 +1,1 @@
-# İTÜ RAKE 2024 Fall Term Recruitment Repository
+# İTÜ RAKE 2025 Summer Term Recruitment Repository
