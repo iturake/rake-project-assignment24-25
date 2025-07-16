@@ -53,7 +53,7 @@ Robotikte önemli bir konu olan çarpışma önleme algoritmalarını (collision
 
 ### Gerekli Yazılımların Kurulması
 
-- Ubuntu 20.04 kurulumu
-- Ubuntu 20.04 İşletim Sistemi' ne ROS Noetic kurulumu
+- Ubuntu 22.04 kurulumu
+- Ubuntu 22.04 İşletim Sistemi' ne ROS Humble kurulumu
 
 Yukarıdaki yazılımları arama motoru üzerinde aratarak yazılımların resmi sayfasına ulaşıp kurulumları gerçekleştirmeniz gerekmektedir.
